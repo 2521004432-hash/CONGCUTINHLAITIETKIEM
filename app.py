@@ -1,5 +1,5 @@
 import streamlit as st
-import math
+st.image("IMG_8208.jpeg")
 
 # =========================
 # CẤU HÌNH TRANG
@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Ứng dụng tính lãi tiền gửi tiết kiệm")
+st.title("CÔNG CỤ TÍNH TIỀN GỬI TIẾT KIỆM_NGUYỄN THỊ BẢO TRÂM")
 st.write("Nhập thông tin tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 # =========================
